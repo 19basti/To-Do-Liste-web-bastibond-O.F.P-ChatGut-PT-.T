@@ -7,7 +7,8 @@
 Chat
 P--ChatGut PT
 
-
+Code Anfänger  Programm To-Do-Liste web 
+Als Anfänger könntest du eine To-Do-Liste für das Web mit HTML, CSS und JavaScript erstellen. Hier ist ein grundlegendes Beispiel, um dir den Einstieg zu erleichtern:
 
 -----> [...]
 
